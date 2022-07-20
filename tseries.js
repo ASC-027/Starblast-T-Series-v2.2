@@ -1,5 +1,5 @@
 /*
-Starblast: T-Series v1.2 - T
+Starblast: T-Series v1.2 - Galaxy Takeover
  
 Credits:
 - Mod Code: ASC-027
