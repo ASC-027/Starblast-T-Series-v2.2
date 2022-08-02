@@ -3,9 +3,9 @@ Starblast: T-Series v1.2 - Galaxy Takeover
  
 Credits:
 - Mod Code: ASC-027
-- Ships: Neuronality,
+- Ships: Neuronality and ASC-095
 - Idea: Aerial0770
-- Beta Testers: 
+- Beta Testers: ASC-095, ASC-051
 */
 
 var ships = [];
