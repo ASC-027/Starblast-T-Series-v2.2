@@ -63,7 +63,7 @@ var vocabulary = [
   {text: "Kill", icon:"\u005b", key:"K"},
   {text: "Leader", icon: "\u002e", key: "L"},
   {text: "Hmm", icon: "\u004b", key: "Q"},
-  {text: "Duel Me", icon: "\u00be", key: "D"},
+  {text: "Why?", icon:"KK", key:"I"},
   {text: "Love", icon:"\u0024", key:"E"},
   {text: "Bruh", icon:"˙ ͜ʟ˙", key:"U"},
   {text: "WTF", icon:"ಠ_ಠ", key:"W"},
