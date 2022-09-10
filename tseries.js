@@ -50,6 +50,46 @@ var T_Conqueror_703 = '{"name":"T-Conqueror","level":7,"model":3,"size":3.726,"s
 
 var T_Superior_705 = '{"name":"T-Superior","level":7,"model":5,"size":3.59,"specs":{"shield":{"capacity":[650,650],"reload":[16.5,16.5]},"generator":{"capacity":[350,350],"reload":[20,20]},"ship":{"mass":800,"speed":[40,40],"rotation":[20,20],"acceleration":[150,150]}},"bodies":{"main":{"section_segments":8,"offset":{"x":0,"y":0,"z":0},"position":{"x":[0,0,0,0,0,0,0],"y":[-95,-100,-98,-70,0,90,60],"z":[0,0,0,0,0,0,0]},"width":[0,5,6,20,30,20,3],"height":[0,2,4,20,30,25,3],"texture":[12,5,63,1,10,12],"propeller":true},"cannon1":{"section_segments":6,"offset":{"x":0,"y":-40,"z":-20},"position":{"x":[0,0,0,0,0,0],"y":[-40,-50,-20,0,20,80],"z":[0,0,0,0,0,0]},"width":[0,5,8,11,7,0],"height":[0,5,8,11,10,0],"angle":0,"laser":{"damage":[200,200],"rate":1,"type":1,"speed":[100,100],"number":1,"angle":0,"error":0},"propeller":false,"texture":[6,3,10,3]},"cannon2":{"section_segments":6,"offset":{"x":25,"y":-45,"z":0},"position":{"x":[0,0,0,0,0,0],"y":[-40,-50,-20,0,20,80],"z":[0,0,0,0,0,0]},"width":[0,5,8,11,7,0],"height":[0,5,8,11,10,0],"angle":0,"laser":{"damage":[20,20],"rate":3,"type":1,"speed":[120,120],"number":1,"angle":0,"error":0},"propeller":false,"texture":[6,3,10,3]},"cannon3":{"section_segments":6,"offset":{"x":80,"y":50,"z":-59},"position":{"x":[0,0,0,0,0,0],"y":[-40,-50,-20,0,20,80],"z":[0,0,0,0,0,0]},"width":[0,5,8,11,7,0],"height":[0,5,8,11,10,0],"angle":0,"laser":{"damage":[10,10],"rate":2,"type":2,"speed":[140,140],"number":1,"angle":0,"error":0},"propeller":false,"texture":[6,3,10,3]},"back":{"section_segments":10,"offset":{"x":0,"y":0,"z":0},"position":{"x":[0,0,0],"y":[90,95,95],"z":[0,0,0]},"width":[15,18,2],"height":[18,23,2],"texture":[63]},"cockpit":{"section_segments":8,"offset":{"x":0,"y":0,"z":20},"position":{"x":[0,0,0,0,0,0],"y":[-50,-40,-25,0,5],"z":[0,0,0,0,9,9]},"width":[0,10,15,10,0],"height":[0,10,15,16,0],"texture":[9]},"top_propulsor":{"section_segments":10,"offset":{"x":50,"y":30,"z":30},"position":{"x":[0,0,0,0,0,0,0,0,0,0],"y":[-20,-15,0,10,20,25,30,40,100,90],"z":[0,0,0,0,0,0,0,0,0,0]},"width":[0,15,20,20,20,15,15,20,10,0],"height":[0,15,20,20,20,15,15,20,10,0],"texture":[4,63,1,1,1,63,1,1,12],"propeller":true},"side_propulsors":{"section_segments":10,"offset":{"x":80,"y":30,"z":-30},"position":{"x":[0,0,0,0,0,0,0,0,0,0],"y":[-20,-15,0,10,20,25,30,40,100,90],"z":[0,0,0,0,0,0,0,0,0,0]},"width":[0,15,20,20,20,15,15,20,10,0],"height":[0,15,20,20,20,15,15,20,10,0],"texture":[4,63,1,1,1,63,1,1,12],"propeller":true}},"wings":{"top_join":{"offset":{"x":10,"y":64,"z":0},"length":[60],"width":[70,30],"angle":[40],"position":[0,0,0,50],"texture":[11],"bump":{"position":10,"size":20},"doubleside":true},"side_joins":{"offset":{"x":0,"y":50,"z":0},"length":[80],"width":[70,30],"angle":[-20],"position":[0,0,0,50],"texture":[11],"bump":{"position":10,"size":20},"doubleside":true}},"typespec":{"name":"T-Superior","level":7,"model":5,"code":705,"specs":{"shield":{"capacity":[650,650],"reload":[16.5,16.5]},"generator":{"capacity":[350,350],"reload":[20,20]},"ship":{"mass":800,"speed":[40,40],"rotation":[20,20],"acceleration":[150,150]}},"shape":[7.189,7.011,7.139,6.879,5.348,4.49,3.804,3.134,2.715,2.475,2.277,2.159,2.147,6.166,7.219,7.647,7.965,8.746,9.432,10.395,11.333,11.054,10.266,9.814,7.144,6.834,7.144,9.814,10.266,11.054,11.333,10.395,9.432,8.746,7.965,7.647,7.219,6.166,6.055,2.159,2.277,2.475,2.715,3.134,3.804,4.49,5.348,6.879,7.139,7.011],"lasers":[{"x":0,"y":-6.462,"z":-1.436,"angle":0,"damage":[200,200],"rate":1,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":1.795,"y":-6.821,"z":0,"angle":0,"damage":[20,20],"rate":3,"type":1,"speed":[120,120],"number":1,"spread":0,"error":0,"recoil":0},{"x":-1.795,"y":-6.821,"z":0,"angle":0,"damage":[20,20],"rate":3,"type":1,"speed":[120,120],"number":1,"spread":0,"error":0,"recoil":0},{"x":5.744,"y":0,"z":-4.236,"angle":0,"damage":[10,10],"rate":2,"type":2,"speed":[140,140],"number":1,"spread":0,"error":0,"recoil":0},{"x":-5.744,"y":0,"z":-4.236,"angle":0,"damage":[10,10],"rate":2,"type":2,"speed":[140,140],"number":1,"spread":0,"error":0,"recoil":0}],"radius":11.333}}';
 
+ships.push(T_Warrior_MK_2_101);
+ 
+ships.push(T_Drone_201);
+ships.push( );
+ 
+ships.push(T_Pulse_301);
+ships.push( );
+ships.push( );
+ships.push( );
+ 
+ships.push(T_Fighter_401);
+ships.push(T_Alliance_402);
+ships.push( );
+ships.push(T_Speedster_404);
+ships.push( );
+ships.push( );
+ 
+ships.push(T_Pulsar_501);
+ships.push(T_Railgun_502);
+ships.push(T_Warrior_503);
+ships.push(T_Aerial_504);
+ships.push(T_Booster_505);
+ships.push(T_Knockback_506);
+ships.push(T_Mercury_507);
+ 
+ships.push(T_Barricade_601);
+ships.push(T_Deadshot_602);
+ships.push(T_Stinger_603);
+ships.push(T_Crusher_604);
+ships.push(T_Victory_605);
+ships.push(T_Blaster_606);
+ships.push(T_Artillery_607);
+ships.push(T_Defender_608);
+ 
+ships.push(T_Palisade_701);
+ships.push(T_Destroyer_702);
+ships.push(T_Conqueror_703);
+ships.push( );
+ships.push(T_Superior_705);
+
 var vocabulary = [
   {text: "Hello", icon: "\u0045", key: "O"},
   {text: "Bye", icon: "\u0046", key: "B"},
