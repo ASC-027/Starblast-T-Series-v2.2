@@ -1,5 +1,5 @@
 /*
-Starblast: T-Series v1.2 - Galaxy Takeover
+Starblast: T-Series v2.2 - Lights Clash
  
 Credits:
 - Mod Code: ASC-027
