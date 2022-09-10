@@ -1,4 +1,4 @@
-# Starblast-T-Series-v2.2
+# Starblast-T-Series-v2.2 - Lights Clash
 T-Series, a modded shiptree based off the T-Warrior...
 
 Mine, upgrade your ship, steal gems, fight and be the last survivor!
